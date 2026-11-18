@@ -36,6 +36,17 @@ Inside of your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
+#### Current missing pages
+
+- About
+- Contact
+- Imprint
+
+#### Other missing content
+
+- "Next event"
+- Video
+
 ### Commands
 
 All commands are run from the root of the project, from a terminal:
